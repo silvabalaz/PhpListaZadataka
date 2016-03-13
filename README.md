@@ -12,4 +12,4 @@ Skriptu za kreiranje tablice.
 Procedura za unos podataka u gore navedenu tablicu.
 Validacija kojom se onemogućava unos dva zapisa istog naslova sa istim statusom, a pri pokušaju takvog unosa informaciju 
 zapisati u server log te vratiti pogrešku.
-Podršku za višejezičnost. Informacija o tome koji se jezik inicijalno prikazuje je definirana u config datoteci.
+
